@@ -1,0 +1,10 @@
+/video-tools/.runtime/
+/video-tools/capcut-cli/
+/video-tools/OpenMontage/
+/video-tools/claude-video-effects/
+/outputs/
+/footage/
+/.env
+/.env.*
+/PROFILE.local.md
+__pycache__/
